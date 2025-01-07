@@ -1,0 +1,2 @@
+## Spam Detect
+This repository contains a machine learning project for classifying emails as spam or not spam (ham) using a transformer-based model. The project utilizes BERT (Bidirectional Encoder Representations from Transformers) to classify text messages. The classifier is trained using a custom dataset of  labeled text messages (SMS spam collection dataset), which includes both spam and ham messages.
